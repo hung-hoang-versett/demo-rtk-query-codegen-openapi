@@ -1,5 +1,7 @@
 Demo code-gen from openAPI 
 
+Why we need this ?: stay sync with BE changes by auto gen-code from openAPI schema.
+
 Trigger gen code by:
 
 `yarn generate-rtk`
